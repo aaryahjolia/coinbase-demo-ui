@@ -1,3 +1,27 @@
+# Tech Stack Used:
+1. ReactJS
+2. Chakra UI
+3. Tailwind CSS
+
+# Steps to Run locally:
+1. Clone the Repo
+2. Open terminal and run command: ```serve -s build```
+3. Voila! The app will open in your default browser.
+
+# Screenshots
+1. Home Page:
+   
+   ![image](https://github.com/aaryahjolia/coinbase-demo-ui/assets/82600388/61c643d9-b69d-4be3-82c0-9bf4d89ace64)
+3. Group 1 Page:
+   
+   ![image](https://github.com/aaryahjolia/coinbase-demo-ui/assets/82600388/689d10ee-27ee-44f6-9262-8d3dd58b8c2c)
+5. Group 2 Page:
+   
+   ![image](https://github.com/aaryahjolia/coinbase-demo-ui/assets/82600388/6b1844dd-e05a-4c2c-ad53-e1bb78dca434)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
