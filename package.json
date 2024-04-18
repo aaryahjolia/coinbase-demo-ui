@@ -1,7 +1,7 @@
 {
   "name": "trading-app-ui",
   "version": "0.1.0",
-  "homepage": "https://aaryahjolia.github.io/coinbase-demo-ui/",
+  "homepage": "https://aaryahjolia.github.io/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
