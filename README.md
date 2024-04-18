@@ -5,8 +5,9 @@
 
 # Steps to Run locally:
 1. Clone the Repo
-2. Open terminal and run command: ```serve -s build```
-3. Voila! The app will open in your default browser.
+2. Open terminal and run command: ```npm install``` to install all the node modules required.
+3. Now run the command: ```npm run start```.
+4. Voila! The webpage will open in your default browser.
 
 # Screenshots
 1. Home Page:
